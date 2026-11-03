@@ -1,0 +1,11 @@
+Total sales: 2,297,201 | Total profit: 286,397
+Best region by sales: West (725,458)
+Region with highest profit margin: West
+Loss-making sub-categories: Tables, Bookcases, Supplies
+Profit by discount band:
+                    Sales     Profit
+Discount_Band                       
+No discount    1087908.47  320987.60
+1-20%           846522.24  100785.47
+21-40%          234137.90  -35817.47
+>40%            128632.25  -99558.59
